@@ -1,0 +1,8 @@
+!*.c
+!*.h 
+ *.log
+ *.hex
+ *.axf
+ *.o
+ *.uvgui.*
+ 
